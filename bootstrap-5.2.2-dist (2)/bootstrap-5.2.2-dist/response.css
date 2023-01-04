@@ -1,0 +1,42 @@
+/* body{
+    background-color: darkgray;
+}  
+
+.flex-container{
+    display: inline-block;  
+}
+.flex-1{
+    background-color: chartreuse;
+    font-size: 400px;
+}
+
+.flex-2{   
+    background-color: darkorange;
+    font-size: 400px;
+}   
+
+
+@media (max-width: 480px) {  
+    .flex-2{
+        font-size: 200px;
+    }
+    .flex-1 {
+      font-size: 200px;
+    }
+  } */   
+
+  p{  
+    font-size: 100px;  
+    width: 50%;
+  }   
+
+   @media (max-width:900px){
+    p{
+        font-size: 50px;  
+        width: 100%;
+    }
+   }
+
+
+
+

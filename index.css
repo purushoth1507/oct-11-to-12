@@ -1,0 +1,121 @@
+div{
+    background-color: tomato;
+    display: inline-block;
+    height: 300px;
+    width: 500px; 
+    text-align: center;
+}
+
+
+/* .nav{  
+       display: flex;
+    background-color: cornflowerblue; 
+    height: 100px; 
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    justify-content: center;
+    
+}
+  
+table,th,td{
+    border: 2px solid  black; 
+
+    border-collapse:collapse;  
+    
+    padding: 20px;  
+
+ margin-left: 10%;
+}      
+.button{
+    text-align: center;  
+}  */
+
+/* a:link{
+    text-decoration: none; 
+    
+
+} */  
+/* 
+.gttt{
+    background-color: aqua;
+}
+
+#dd{  
+      background-color: orchid ;
+}
+
+button{  
+    padding: 10px; 
+    border-radius: 10px!important;
+    background-color: blue; 
+    border:0;  
+    
+}  
+.ff{
+    color: antiquewhite !important;
+    text-decoration: none !important;
+}
+
+#d1{
+    display: inline-block; 
+    background-color: tomato;
+    height: 200px;
+    width: 400px;   
+    overflow: scroll;
+
+}
+
+
+.round{
+    border:2px;
+    border-style: solid;
+    width: 100px;
+    height: 100px;
+    border-radius:50% ;
+}
+th{
+    background-color: chartreuse;
+} 
+
+#card{
+    border: 0px;
+}
+
+
+td{
+    background-color: crimson;
+} */
+
+/* img{ 
+    opacity:0.5 ;
+    width: 30%;
+    height: 60%; 
+    /* float: right; */
+
+    /* background-color: darkolivegreen; */  
+
+    /* background-image: url(../../dhoni.jpg);  
+
+    background-repeat: no-repeat; 
+
+    background-size: cover; */
+
+
+/* div{
+    text-align: center;
+} */
+ 
+/* p{  
+   overflow: scroll; 
+   text-transform: capitalize ;
+/* text-shadow: 2px 10px; */
+    
+    /* font-style: italic; 
+    font-size: xx-large;
+    color: blue;  
+    word-spacing: 50px;  
+    letter-spacing: 7px;
+} */
+
